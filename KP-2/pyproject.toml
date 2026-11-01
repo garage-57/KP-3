@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "kp-2"
+version = "0.1.0"
+description = ""
+authors = ["Olesya <flomaster597@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.14"
+isort = "^9.0.1"
+flake8 = "^7.4.1"
+mypy = "^2.3.1"
+pandas = "^3.0.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest-cov (>=7.1.0,<8.0.0)"
+]
