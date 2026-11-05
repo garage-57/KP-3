@@ -1,0 +1,9 @@
+2026-10-07 17:08:27,396 - src.api_key - INFO - Поиск самолётов над страной: Canada
+2026-10-07 17:08:27,397 - src.api_key - INFO - GET https://opensky-network.org/api/states/all
+2026-10-07 17:08:28,917 - src.api_key - INFO - Найдено 236 самолётов над Canada
+2026-10-07 17:12:49,459 - src.api_key - INFO - Поиск самолётов над страной: Canada
+2026-10-07 17:12:49,460 - src.api_key - INFO - GET https://opensky-network.org/api/states/all
+2026-10-07 17:12:51,260 - src.api_key - INFO - Найдено 258 самолётов над Canada
+2026-10-08 15:58:41,312 - src.api_key - INFO - Поиск самолётов над страной: Canada
+2026-10-08 15:58:41,313 - src.api_key - INFO - GET https://opensky-network.org/api/states/all
+2026-10-08 15:58:42,723 - src.api_key - INFO - Найдено 168 самолётов над Canada
